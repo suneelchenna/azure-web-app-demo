@@ -10,7 +10,7 @@
       "start": "node index.js"
     },
     "files": [
-      "index.css"
+      "*"
     ],
     "dependencies": {
       "express": "^4.16.1"}
